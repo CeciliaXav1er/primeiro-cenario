@@ -48,21 +48,6 @@ The player takes on the role of **Kim Dokja**, an ordinary office worker whose f
 │   └── final-*.xml          # Various ending scripts
 └── fable.xml                # Main configuration and variable initialization
 ```
-## 🎮 How to Play
-Launch the Interpreter: Run the game through the specific engine provided for the course.
-
-Navigate: Click on the text box or interaction areas to advance the story.
-
-Make Choices: When prompted, select an action (e.g., check phone, talk to colleagues, look for items).
-
-Survive: Try to find the logic behind the "First Scenario" to unlock the True Ending.
-
-## 🧩 Logic Highlights
-The game uses logic gates defined in XML to handle the narrative flow:
-
-<fab-if> tags check for specific variable values (e.g., insetos=true) to unlock specific dialogue options or endings.
-
-Variables like mensagem_frase or mensagem_sagaz control the step-by-step progression of scenes.
 
 ## 📢 Acknowledgments
 Original Story: Omniscient Reader's Viewpoint by Sing Shong.
