@@ -1,5 +1,5 @@
 # 📖 Omniscient Reader's Viewpoint: The First Scenario
-
+*"The story I've been reading for 10 years has become reality."*
 > **Course:** Algorithms I (Algoritmos I)  
 > **Type:** Extra Activity / Interactive Story Project
 
